@@ -33,7 +33,5 @@ The report includes:
 
 ---
 
-## 📬 Contact
-
 **Nashat Alfarajat**  
 AI & Data Science Trainee  
